@@ -1,0 +1,6 @@
+[run]
+source = seva_app
+omit = 
+    tests/*
+    autoapp.py
+
